@@ -6,4 +6,9 @@ div{
     background-color: aquamarine;
     margin-top: 10px;
     padding: 10px;
+    margin-bottom: 10px;
+}
+.update{
+    background-color: aquamarine;
+    /* display:inline; eta dile prblm kore kn!! */
 }
